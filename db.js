@@ -3,7 +3,7 @@ const Sequelize = require("sequelize");
 const sequelize = new Sequelize(
   "blue-server-challenges",
   "postgres",
-  "PassWordGoesHere",
+  "blU1150ebadge!",
   {
     host: "localhost",
     dialect: "postgres",
